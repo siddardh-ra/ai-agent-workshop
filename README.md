@@ -10,7 +10,7 @@ This guide helps you configure and run Jupyter Notebooks inside a Python virtual
 2. **Clone your fork** to your local machine:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-workshop-rh.git
+   git clone https://github.com/YOUR_USERNAME/ai-agent-workshop.git
    cd ai-workshop-rh
    ```
 
