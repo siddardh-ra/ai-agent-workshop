@@ -11,7 +11,7 @@ This guide helps you configure and run Jupyter Notebooks inside a Python virtual
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/ai-agent-workshop.git
-   cd ai-workshop-rh
+   cd ai-agent-workshop
    ```
 
 3. **Activate Your Virtual Environment**
