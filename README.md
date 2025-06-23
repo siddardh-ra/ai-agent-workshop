@@ -21,12 +21,13 @@ This guide helps you configure and run Jupyter Notebooks inside a Python virtual
    source ./.venv/bin/activate
 ---
 
-4. **Install Jupyter in the Virtual Environment**
+4. **Install Jupyter and Dependencies**
 
-Make sure Jupyter and IPython kernel support are installed **inside** the virtual environment:
+Ensure all required packages—including Jupyter Notebook and IPython kernel support—are installed within your virtual environment. Use the following command to install dependencies listed in the requirements.txt
+
 
 ```bash
-pip install jupyter ipykernel
+pip install -r requirements.txt
 ```
 
 ---
